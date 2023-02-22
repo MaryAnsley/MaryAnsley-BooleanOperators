@@ -46,7 +46,7 @@ public class Lab {
         if(b1==true && b2==true){
             return true;
         } else {
-            return false
+            return false;
         }
         
      }
